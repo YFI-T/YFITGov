@@ -28,7 +28,7 @@
 
   <meta name="viewport" content="width=device-width">
   
-  <title>YFITGov/README.md at master · YFITGov · GitHub</title>
+  <title>YFITGov/YFITRewardsBurn.sol at master · YFITGov · GitHub</title>
     <meta name="description" content="YFIT Gov Contract Source Code. Contribute to YFITGov development by creating an account on GitHub.">
     <link rel="search" type="application/opensearchdescription+xml" href="/opensearch.xml" title="GitHub">
   <link rel="fluid-icon" href="https://github.com/fluidicon.png" title="GitHub">
@@ -45,7 +45,7 @@
   <link rel="assets" href="https://github.githubassets.com/">
   
 
-  <meta name="request-id" content="10DD:24E7:94C753:CC356A:5F60B1E9" data-pjax-transient="true"/><meta name="html-safe-nonce" content="a316a484380fcc2ff3cbc1f6977a2f46d68748e4" data-pjax-transient="true"/><meta name="visitor-payload" content="eyJyZWZlcnJlciI6Imh0dHBzOi8vZ2l0aHViLmNvbS9ZRklNb2JpL1lGSU1Hb3YiLCJyZXF1ZXN0X2lkIjoiMTBERDoyNEU3Ojk0Qzc1MzpDQzM1NkE6NUY2MEIxRTkiLCJ2aXNpdG9yX2lkIjoiODg2OTQ3NTk1MDI1MTQ5MDIwNiIsInJlZ2lvbl9lZGdlIjoiYXAtc291dGhlYXN0LTEiLCJyZWdpb25fcmVuZGVyIjoiYXAtc291dGhlYXN0LTEifQ==" data-pjax-transient="true"/><meta name="visitor-hmac" content="0b008c10895e36b2e5d6920ced9a09b265ca6abd9d16a81f99b94f3f584359a9" data-pjax-transient="true"/><meta name="cookie-consent-required" content="false" data-pjax-transient="true"/>
+  <meta name="request-id" content="10DD:24E7:94D3D5:CC49D0:5F60B20D" data-pjax-transient="true"/><meta name="html-safe-nonce" content="a316a484380fcc2ff3cbc1f6977a2f46d68748e4" data-pjax-transient="true"/><meta name="visitor-payload" content="eyJyZWZlcnJlciI6Imh0dHBzOi8vZ2l0aHViLmNvbS9ZRklNb2JpL1lGSU1Hb3YiLCJyZXF1ZXN0X2lkIjoiMTBERDoyNEU3Ojk0RDNENTpDQzQ5RDA6NUY2MEIyMEQiLCJ2aXNpdG9yX2lkIjoiODg2OTQ3NTk1MDI1MTQ5MDIwNiIsInJlZ2lvbl9lZGdlIjoiYXAtc291dGhlYXN0LTEiLCJyZWdpb25fcmVuZGVyIjoiYXAtc291dGhlYXN0LTEifQ==" data-pjax-transient="true"/><meta name="visitor-hmac" content="404c29a04e7cc3dba7a96be75f3ec7e8701d162a209ac2f9610e478409c6ac30" data-pjax-transient="true"/><meta name="cookie-consent-required" content="false" data-pjax-transient="true"/>
 
     <meta name="hovercard-subject-tag" content="repository:292184344" data-pjax-transient>
 
@@ -101,7 +101,7 @@
   <meta name="octolytics-dimension-user_id" content="70599710" /><meta name="octolytics-dimension-user_login" content="YFITobi" /><meta name="octolytics-dimension-repository_id" content="292184344" /><meta name="octolytics-dimension-repository_nwo" content="YFITGov" /><meta name="octolytics-dimension-repository_public" content="true" /><meta name="octolytics-dimension-repository_is_fork" content="false" /><meta name="octolytics-dimension-repository_network_root_id" content="292184344" /><meta name="octolytics-dimension-repository_network_root_nwo" content="YFITGov" /><meta name="octolytics-dimension-repository_explore_github_marketplace_ci_cta_shown" content="false" />
 
 
-    <link rel="canonical" href="https://github.com/YFITGov/blob/master/README.md" data-pjax-transient>
+    <link rel="canonical" href="https://github.com/YFITGov/blob/master/YFITRewardsBurn.sol" data-pjax-transient>
 
 
   <meta name="browser-stats-url" content="https://api.github.com/_private/browser/stats">
@@ -148,7 +148,7 @@
         <div class="d-flex flex-items-center">
               <a href="/join?ref_cta=Sign+up&amp;ref_loc=header+logged+out&amp;ref_page=%2F%3Cuser-name%3E%2F%3Crepo-name%3E%2Fblob%2Fshow&amp;source=header-repo"
                 class="d-inline-block d-lg-none f5 text-white no-underline border border-gray-dark rounded-2 px-2 py-1 mr-3 mr-sm-5"
-                data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;site header&quot;,&quot;repository_id&quot;:null,&quot;auth_type&quot;:&quot;SIGN_UP&quot;,&quot;originating_url&quot;:&quot;https://github.com/YFITGov/blob/master/README.md&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="6c8ed67443d433254ed6a2c0b2fb85f5949b5d272f3e0fd70fd14f584eb50a66"
+                data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;site header&quot;,&quot;repository_id&quot;:null,&quot;auth_type&quot;:&quot;SIGN_UP&quot;,&quot;originating_url&quot;:&quot;https://github.com/YFITGov/blob/master/YFITRewardsBurn.sol&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="5b19a8ff69f9a2287de91c4453b5aea9a04c94e368c4d0d9133d2cc6c4a676b2"
                 data-ga-click="Sign up, click to sign up for account, ref_page:/&lt;user-name&gt;/&lt;repo-name&gt;/blob/show;ref_cta:Sign up;ref_loc:header logged out">
                 Sign&nbsp;up
               </a>
@@ -299,7 +299,7 @@
           spellcheck="false"
           autocomplete="off"
           >
-          <input type="hidden" data-csrf="true" class="js-data-jump-to-suggestions-path-csrf" value="miArpmRTRHnGdJf/I5Tw6uxaugeq61W+yonU7LngvSgbv7twApZT0alTIOx+XPSU7tcHM4dpPQpwSDI9TPQN8g==" />
+          <input type="hidden" data-csrf="true" class="js-data-jump-to-suggestions-path-csrf" value="EOtSRAqKdftwSJcFcE5YrfwqL4NRSyoXSHrMbBTOruqRdMKSbE9iUx9vIBYthlzT/qeSt3zJQqPyuyq94doeMA==" />
           <input type="hidden" class="js-site-search-type-field" name="type" >
             <img src="https://github.githubassets.com/images/search-key-slash.svg" alt="" class="mr-2 header-search-key-slash">
 
@@ -421,15 +421,15 @@
 
           </div>
 
-        <a href="/login?return_to=%2FYFITobi%2FYFITGov%2Fblob%2Fmaster%2FREADME.md"
+        <a href="/login?return_to=%2FYFITobi%2FYFITGov%2Fblob%2Fmaster%2FYFITRewardsBurn.sol"
           class="HeaderMenu-link no-underline mr-3"
-          data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;site header menu&quot;,&quot;repository_id&quot;:null,&quot;auth_type&quot;:&quot;SIGN_UP&quot;,&quot;originating_url&quot;:&quot;https://github.com/YFITGov/blob/master/README.md&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="e0864da328638dcf69de8f8c1eba655c4585275aa857d78b0b604bf3ca707518"
+          data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;site header menu&quot;,&quot;repository_id&quot;:null,&quot;auth_type&quot;:&quot;SIGN_UP&quot;,&quot;originating_url&quot;:&quot;https://github.com/YFITGov/blob/master/YFITRewardsBurn.sol&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="caefe5b1c0ce3b56c894ccaeabf598eb6ea2d68a95420ce593bf73dde3f49b5e"
           data-ga-click="(Logged out) Header, clicked Sign in, text:sign-in">
           Sign&nbsp;in
         </a>
             <a href="/join?ref_cta=Sign+up&amp;ref_loc=header+logged+out&amp;ref_page=%2F%3Cuser-name%3E%2F%3Crepo-name%3E%2Fblob%2Fshow&amp;source=header-repo&amp;source_repo=YFITobi%2FYFITGov"
               class="HeaderMenu-link d-inline-block no-underline border border-gray-dark rounded-1 px-2 py-1"
-              data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;site header menu&quot;,&quot;repository_id&quot;:null,&quot;auth_type&quot;:&quot;SIGN_UP&quot;,&quot;originating_url&quot;:&quot;https://github.com/YFITGov/blob/master/README.md&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="e0864da328638dcf69de8f8c1eba655c4585275aa857d78b0b604bf3ca707518"
+              data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;site header menu&quot;,&quot;repository_id&quot;:null,&quot;auth_type&quot;:&quot;SIGN_UP&quot;,&quot;originating_url&quot;:&quot;https://github.com/YFITGov/blob/master/YFITRewardsBurn.sol&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="caefe5b1c0ce3b56c894ccaeabf598eb6ea2d68a95420ce593bf73dde3f49b5e"
               data-ga-click="Sign up, click to sign up for account, ref_page:/&lt;user-name&gt;/&lt;repo-name&gt;/blob/show;ref_cta:Sign up;ref_loc:header logged out">
               Sign&nbsp;up
             </a>
@@ -512,7 +512,7 @@
           <ul class="pagehead-actions flex-shrink-0 d-none d-md-inline" style="padding: 2px 0;">
 
   <li>
-        <a class="tooltipped tooltipped-s btn btn-sm btn-with-count" aria-label="You must be signed in to watch a repository" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;notification subscription menu watch&quot;,&quot;repository_id&quot;:null,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/YFITGov/blob/master/README.md&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="b202cb5cba0c7563299686e874c35d777bc1d660d2e9c12b9890b02751f5af82" href="/login?return_to=%2FYFITobi%2FYFITGov">
+        <a class="tooltipped tooltipped-s btn btn-sm btn-with-count" aria-label="You must be signed in to watch a repository" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;notification subscription menu watch&quot;,&quot;repository_id&quot;:null,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/YFITGov/blob/master/YFITRewardsBurn.sol&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="5a21e2b246904474a163d343775e434fef8db868757726a8cbc2c35a5c8264ab" href="/login?return_to=%2FYFITobi%2FYFITGov">
     <svg height="16" class="octicon octicon-eye" viewBox="0 0 16 16" version="1.1" width="16" aria-hidden="true"><path fill-rule="evenodd" d="M1.679 7.932c.412-.621 1.242-1.75 2.366-2.717C5.175 4.242 6.527 3.5 8 3.5c1.473 0 2.824.742 3.955 1.715 1.124.967 1.954 2.096 2.366 2.717a.119.119 0 010 .136c-.412.621-1.242 1.75-2.366 2.717C10.825 11.758 9.473 12.5 8 12.5c-1.473 0-2.824-.742-3.955-1.715C2.92 9.818 2.09 8.69 1.679 8.068a.119.119 0 010-.136zM8 2c-1.981 0-3.67.992-4.933 2.078C1.797 5.169.88 6.423.43 7.1a1.619 1.619 0 000 1.798c.45.678 1.367 1.932 2.637 3.024C4.329 13.008 6.019 14 8 14c1.981 0 3.67-.992 4.933-2.078 1.27-1.091 2.187-2.345 2.637-3.023a1.619 1.619 0 000-1.798c-.45-.678-1.367-1.932-2.637-3.023C11.671 2.992 9.981 2 8 2zm0 8a2 2 0 100-4 2 2 0 000 4z"></path></svg>
     Watch
 </a>    <a class="social-count" href="/YFITGov/watchers"
@@ -523,7 +523,7 @@
   </li>
 
   <li>
-          <a class="btn btn-sm btn-with-count  tooltipped tooltipped-s" aria-label="You must be signed in to star a repository" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;star button&quot;,&quot;repository_id&quot;:292184344,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/YFITGov/blob/master/README.md&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="b5e14024c72bc66578a9739583813a12523e5e70033b91ed28069515e4c1dc8e" href="/login?return_to=%2FYFITobi%2FYFITGov">
+          <a class="btn btn-sm btn-with-count  tooltipped tooltipped-s" aria-label="You must be signed in to star a repository" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;star button&quot;,&quot;repository_id&quot;:292184344,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/YFITGov/blob/master/YFITRewardsBurn.sol&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="a5955aa5f9b49cca5a907b7915745ebccc13e50389dd8cd0f8c718b54e2a153a" href="/login?return_to=%2FYFITobi%2FYFITGov">
       <svg vertical_align="text_bottom" height="16" class="octicon octicon-star v-align-text-bottom" viewBox="0 0 16 16" version="1.1" width="16" aria-hidden="true"><path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25zm0 2.445L6.615 5.5a.75.75 0 01-.564.41l-3.097.45 2.24 2.184a.75.75 0 01.216.664l-.528 3.084 2.769-1.456a.75.75 0 01.698 0l2.77 1.456-.53-3.084a.75.75 0 01.216-.664l2.24-2.183-3.096-.45a.75.75 0 01-.564-.41L8 2.694v.001z"></path></svg>
       Star
 </a>
@@ -535,7 +535,7 @@
   </li>
 
   <li>
-        <a class="btn btn-sm btn-with-count tooltipped tooltipped-s" aria-label="You must be signed in to fork a repository" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;repo details fork button&quot;,&quot;repository_id&quot;:292184344,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/YFITGov/blob/master/README.md&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="acb7fb874a5eebae3d088dd60742d7ec64e1f01e373adba99efb2728ab342e9e" href="/login?return_to=%2FYFITobi%2FYFITGov">
+        <a class="btn btn-sm btn-with-count tooltipped tooltipped-s" aria-label="You must be signed in to fork a repository" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;repo details fork button&quot;,&quot;repository_id&quot;:292184344,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/YFITGov/blob/master/YFITRewardsBurn.sol&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="c95809b63ee2260e7bcda67e0bece278e1d620a5e27861e969148bd2235106f7" href="/login?return_to=%2FYFITobi%2FYFITGov">
           <svg class="octicon octicon-repo-forked" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M5 3.25a.75.75 0 11-1.5 0 .75.75 0 011.5 0zm0 2.122a2.25 2.25 0 10-1.5 0v.878A2.25 2.25 0 005.75 8.5h1.5v2.128a2.251 2.251 0 101.5 0V8.5h1.5a2.25 2.25 0 002.25-2.25v-.878a2.25 2.25 0 10-1.5 0v.878a.75.75 0 01-.75.75h-4.5A.75.75 0 015 6.25v-.878zm3.75 7.378a.75.75 0 11-1.5 0 .75.75 0 011.5 0zm3-8.75a.75.75 0 100-1.5.75.75 0 000 1.5z"></path></svg>
           Fork
 </a>
@@ -648,9 +648,9 @@
   
 
 
-    <a class="d-none js-permalink-shortcut" data-hotkey="y" href="/YFITGov/blob/0a16b19f52437b7c4a4601e51063836a35ad4ab0/README.md">Permalink</a>
+    <a class="d-none js-permalink-shortcut" data-hotkey="y" href="/YFITGov/blob/0a16b19f52437b7c4a4601e51063836a35ad4ab0/YFITRewardsBurn.sol">Permalink</a>
 
-    <!-- blob contrib key: blob_contributors:v22:e5cb634e94cf3fcc6c30bae5372f521759cbdabb2a50be4e86e7219108e5c861 -->
+    <!-- blob contrib key: blob_contributors:v22:ce25130f39ec7b4005a99631854db0ee0f218d276e620d2012ffb77ec99dbcc1 -->
       <signup-prompt class="signup-prompt-bg rounded-1" data-prompt="signup" hidden>
     <div class="signup-prompt p-4 text-center mb-4 rounded-1">
       <div class="position-relative">
@@ -664,7 +664,7 @@
         </button>
         <h3 class="pt-2">Join GitHub today</h3>
         <p class="col-6 mx-auto">GitHub is home to over 50 million developers working together to host and review code, manage projects, and build software together.</p>
-        <a class="btn btn-primary" data-ga-click="(Logged out) Sign up prompt, clicked Sign up, text:sign-up" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;files signup prompt&quot;,&quot;repository_id&quot;:null,&quot;auth_type&quot;:&quot;SIGN_UP&quot;,&quot;originating_url&quot;:&quot;https://github.com/YFITGov/blob/master/README.md&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="0047bfe36cdf4adab2000e45b3d46180b6f3be2e216a3a5ff8855f07b29a51d5" href="/join?source=prompt-blob-show&amp;source_repo=YFITobi%2FYFITGov">Sign up</a>
+        <a class="btn btn-primary" data-ga-click="(Logged out) Sign up prompt, clicked Sign up, text:sign-up" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;files signup prompt&quot;,&quot;repository_id&quot;:null,&quot;auth_type&quot;:&quot;SIGN_UP&quot;,&quot;originating_url&quot;:&quot;https://github.com/YFITGov/blob/master/YFITRewardsBurn.sol&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="f08af19e7f917be9a5a880dfea0b24565759c067164840bab20694cb2a47472c" href="/join?source=prompt-blob-show&amp;source_repo=YFITobi%2FYFITGov">Sign up</a>
       </div>
     </div>
   </signup-prompt>
@@ -682,7 +682,7 @@
       <span class="dropdown-caret"></span>
     </summary>
 
-    <details-menu class="SelectMenu SelectMenu--hasFilter" src="/YFITGov/refs/master/README.md?source_action=show&amp;source_controller=blob" preload>
+    <details-menu class="SelectMenu SelectMenu--hasFilter" src="/YFITGov/refs/master/YFITRewardsBurn.sol?source_action=show&amp;source_controller=blob" preload>
       <div class="SelectMenu-modal">
         <include-fragment class="SelectMenu-loading" aria-label="Menu is loading">
           <svg class="octicon octicon-octoface anim-pulse" height="32" viewBox="0 0 24 24" version="1.1" width="32" aria-hidden="true"><path d="M7.75 11c-.69 0-1.25.56-1.25 1.25v1.5a1.25 1.25 0 102.5 0v-1.5C9 11.56 8.44 11 7.75 11zm1.27 4.5a.469.469 0 01.48-.5h5a.47.47 0 01.48.5c-.116 1.316-.759 2.5-2.98 2.5s-2.864-1.184-2.98-2.5zm7.23-4.5c-.69 0-1.25.56-1.25 1.25v1.5a1.25 1.25 0 102.5 0v-1.5c0-.69-.56-1.25-1.25-1.25z"></path><path fill-rule="evenodd" d="M21.255 3.82a1.725 1.725 0 00-2.141-1.195c-.557.16-1.406.44-2.264.866-.78.386-1.647.93-2.293 1.677A18.442 18.442 0 0012 5c-.93 0-1.784.059-2.569.17-.645-.74-1.505-1.28-2.28-1.664a13.876 13.876 0 00-2.265-.866 1.725 1.725 0 00-2.141 1.196 23.645 23.645 0 00-.69 3.292c-.125.97-.191 2.07-.066 3.112C1.254 11.882 1 13.734 1 15.527 1 19.915 3.13 23 12 23c8.87 0 11-3.053 11-7.473 0-1.794-.255-3.647-.99-5.29.127-1.046.06-2.15-.066-3.125a23.652 23.652 0 00-.689-3.292zM20.5 14c.5 3.5-1.5 6.5-8.5 6.5s-9-3-8.5-6.5c.583-4 3-6 8.5-6s7.928 2 8.5 6z"></path></svg>
@@ -694,7 +694,7 @@
 </div>
 
       <h2 id="blob-path" class="breadcrumb flex-auto min-width-0 text-normal mx-0 mx-md-3 width-full width-md-auto flex-order-1 flex-md-order-none mt-3 mt-md-0">
-        <span class="js-repo-root text-bold"><span class="js-path-segment d-inline-block wb-break-all"><a data-pjax="true" href="/YFITGov"><span>YFITGov</span></a></span></span><span class="separator">/</span><strong class="final-path">README.md</strong>
+        <span class="js-repo-root text-bold"><span class="js-path-segment d-inline-block wb-break-all"><a data-pjax="true" href="/YFITGov"><span>YFITGov</span></a></span></span><span class="separator">/</span><strong class="final-path">YFITRewardsBurn.sol</strong>
       </h2>
       <a href="/YFITGov/find/master"
             class="js-pjax-capture-input btn mr-2 d-none d-md-block"
@@ -709,7 +709,7 @@
 </summary>  <div>
     <ul class="dropdown-menu dropdown-menu-sw">
             <li class="d-block d-md-none">
-              <a class="dropdown-item d-flex flex-items-baseline" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;FIND_FILE_BUTTON&quot;,&quot;repository_id&quot;:292184344,&quot;originating_url&quot;:&quot;https://github.com/YFITGov/blob/master/README.md&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="8528acd7987cf4a57eb0ddbdfad962b736537fa336bd4543ab4e79cfd9248b0e" data-ga-click="Repository, find file, location:repo overview" data-hotkey="t" data-pjax="true" href="/YFITGov/find/master">
+              <a class="dropdown-item d-flex flex-items-baseline" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;FIND_FILE_BUTTON&quot;,&quot;repository_id&quot;:292184344,&quot;originating_url&quot;:&quot;https://github.com/YFITGov/blob/master/YFITRewardsBurn.sol&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="b78c77298cc31254f93d71c94eca528ae5db76c609e3f74ed93f0fa68587759b" data-ga-click="Repository, find file, location:repo overview" data-hotkey="t" data-pjax="true" href="/YFITGov/find/master">
                 <span class="flex-auto">Go to file</span>
                 <span class="text-small text-gray" aria-hidden="true">T</span>
 </a>            </li>
@@ -723,7 +723,7 @@
             </li>
             <li class="dropdown-divider" role="none"></li>
             <li>
-              <clipboard-copy value="README.md" class="dropdown-item cursor-pointer" data-toggle-for="blob-more-options-details">
+              <clipboard-copy value="YFITRewardsBurn.sol" class="dropdown-item cursor-pointer" data-toggle-for="blob-more-options-details">
                 Copy path
               </clipboard-copy>
             </li>
@@ -733,7 +733,7 @@
 
 
     <div class="Box d-flex flex-column flex-shrink-0 mb-3">
-      <include-fragment src="/YFITGov/contributors/master/README.md" class="commit-loader">
+      <include-fragment src="/YFITGov/contributors/master/YFITRewardsBurn.sol" class="commit-loader">
         <div class="Box-header Box-header--blue d-flex flex-items-center">
           <div class="Skeleton avatar avatar-user flex-shrink-0 ml-n1 mr-n1 mt-n1 mb-n1" style="width:24px;height:24px;"></div>
           <div class="Skeleton Skeleton--text col-5 ml-2">&nbsp;</div>
@@ -756,16 +756,16 @@
 <div class="Box-header py-2 d-flex flex-column flex-shrink-0 flex-md-row flex-md-items-center">
   <div class="text-mono f6 flex-auto pr-3 flex-order-2 flex-md-order-1 mt-2 mt-md-0">
 
-      2 lines (2 sloc)
+      135 lines (111 sloc)
       <span class="file-info-divider"></span>
-    40 Bytes
+    4.83 KB
   </div>
 
   <div class="d-flex py-1 py-md-0 flex-auto flex-order-1 flex-md-order-2 flex-sm-grow-0 flex-justify-between">
 
     <div class="BtnGroup">
-      <a href="/YFITGov/raw/master/README.md" id="raw-url" role="button" class="btn btn-sm BtnGroup-item ">Raw</a>
-        <a href="/YFITGov/blame/master/README.md" data-hotkey="b" role="button" class="btn js-update-url-with-hash btn-sm BtnGroup-item ">Blame</a>
+      <a href="/YFITGov/raw/master/YFITRewardsBurn.sol" id="raw-url" role="button" class="btn btn-sm BtnGroup-item ">Raw</a>
+        <a href="/YFITGov/blame/master/YFITRewardsBurn.sol" data-hotkey="b" role="button" class="btn js-update-url-with-hash btn-sm BtnGroup-item ">Blame</a>
     </div>
 
     <div>
@@ -777,11 +777,11 @@
               <svg class="octicon octicon-device-desktop" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M1.75 2.5h12.5a.25.25 0 01.25.25v7.5a.25.25 0 01-.25.25H1.75a.25.25 0 01-.25-.25v-7.5a.25.25 0 01.25-.25zM14.25 1H1.75A1.75 1.75 0 000 2.75v7.5C0 11.216.784 12 1.75 12h3.727c-.1 1.041-.52 1.872-1.292 2.757A.75.75 0 004.75 16h6.5a.75.75 0 00.565-1.243c-.772-.885-1.193-1.716-1.292-2.757h3.727A1.75 1.75 0 0016 10.25v-7.5A1.75 1.75 0 0014.25 1zM9.018 12H6.982a5.72 5.72 0 01-.765 2.5h3.566a5.72 5.72 0 01-.765-2.5z"></path></svg>
           </a>
 
-          <a href="/login?return_to=%2FYFITobi%2FYFITGov%2Fblob%2Fmaster%2FREADME.md" class="btn-octicon disabled tooltipped tooltipped-nw"
+          <a href="/login?return_to=%2FYFITobi%2FYFITGov%2Fblob%2Fmaster%2FYFITRewardsBurn.sol" class="btn-octicon disabled tooltipped tooltipped-nw"
             aria-label="You must be signed in to make or propose changes">
             <svg class="octicon octicon-pencil" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M11.013 1.427a1.75 1.75 0 012.474 0l1.086 1.086a1.75 1.75 0 010 2.474l-8.61 8.61c-.21.21-.47.364-.756.445l-3.251.93a.75.75 0 01-.927-.928l.929-3.25a1.75 1.75 0 01.445-.758l8.61-8.61zm1.414 1.06a.25.25 0 00-.354 0L10.811 3.75l1.439 1.44 1.263-1.263a.25.25 0 000-.354l-1.086-1.086zM11.189 6.25L9.75 4.81l-6.286 6.287a.25.25 0 00-.064.108l-.558 1.953 1.953-.558a.249.249 0 00.108-.064l6.286-6.286z"></path></svg>
           </a>
-          <a href="/login?return_to=%2FYFITobi%2FYFITGov%2Fblob%2Fmaster%2FREADME.md" class="btn-octicon btn-octicon-danger disabled tooltipped tooltipped-nw"
+          <a href="/login?return_to=%2FYFITobi%2FYFITGov%2Fblob%2Fmaster%2FYFITRewardsBurn.sol" class="btn-octicon btn-octicon-danger disabled tooltipped tooltipped-nw"
             aria-label="You must be signed in to make or propose changes">
             <svg class="octicon octicon-trashcan" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M6.5 1.75a.25.25 0 01.25-.25h2.5a.25.25 0 01.25.25V3h-3V1.75zm4.5 0V3h2.25a.75.75 0 010 1.5H2.75a.75.75 0 010-1.5H5V1.75C5 .784 5.784 0 6.75 0h2.5C10.216 0 11 .784 11 1.75zM4.496 6.675a.75.75 0 10-1.492.15l.66 6.6A1.75 1.75 0 005.405 15h5.19c.9 0 1.652-.681 1.741-1.576l.66-6.6a.75.75 0 00-1.492-.149l-.66 6.6a.25.25 0 01-.249.225h-5.19a.25.25 0 01-.249-.225l-.66-6.6z"></path></svg>
           </a>
@@ -792,10 +792,598 @@
 
 
       
-  <div id="readme" class="Box-body readme blob js-code-block-container p-5 p-xl-6 gist-border-0">
-    <article class="markdown-body entry-content container-lg" itemprop="text"><h1><a id="user-content-yfiTgov" class="anchor" aria-hidden="true" href="#yfiTgov"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a>YFITGov</h1>
-<p>YFIT Gov Contract Source Code</p>
-</article>
+
+  <div itemprop="text" class="Box-body p-0 blob-wrapper data type-solidity  gist-border-0">
+      
+<table class="highlight tab-size js-file-line-container" data-tab-size="8" data-paste-markdown-skip>
+      <tr>
+        <td id="L1" class="blob-num js-line-number" data-line-number="1"></td>
+        <td id="LC1" class="blob-code blob-code-inner js-file-line">
+</td>
+      </tr>
+      <tr>
+        <td id="L2" class="blob-num js-line-number" data-line-number="2"></td>
+        <td id="LC2" class="blob-code blob-code-inner js-file-line"><span class="pl-k">pragma</span> solidity <span class="pl-k">^</span><span class="pl-c1">0</span>.<span class="pl-c1">5</span>.<span class="pl-c1">16</span>;</td>
+      </tr>
+      <tr>
+        <td id="L3" class="blob-num js-line-number" data-line-number="3"></td>
+        <td id="LC3" class="blob-code blob-code-inner js-file-line">
+</td>
+      </tr>
+      <tr>
+        <td id="L4" class="blob-num js-line-number" data-line-number="4"></td>
+        <td id="LC4" class="blob-code blob-code-inner js-file-line"><span class="pl-k">interface<span class="pl-en"> IERC20</span></span> {</td>
+      </tr>
+      <tr>
+        <td id="L5" class="blob-num js-line-number" data-line-number="5"></td>
+        <td id="LC5" class="blob-code blob-code-inner js-file-line">    <span class="pl-k">function<span class="pl-en"> totalSupply</span></span>() <span class="pl-k">external</span> <span class="pl-k">view</span> <span class="pl-k">returns</span> (<span class="pl-c1">uint</span>);</td>
+      </tr>
+      <tr>
+        <td id="L6" class="blob-num js-line-number" data-line-number="6"></td>
+        <td id="LC6" class="blob-code blob-code-inner js-file-line">    <span class="pl-k">function<span class="pl-en"> balanceOf</span></span>(<span class="pl-c1">address</span> <span class="pl-v">account</span>) <span class="pl-k">external</span> <span class="pl-k">view</span> <span class="pl-k">returns</span> (<span class="pl-c1">uint</span>);</td>
+      </tr>
+      <tr>
+        <td id="L7" class="blob-num js-line-number" data-line-number="7"></td>
+        <td id="LC7" class="blob-code blob-code-inner js-file-line">    <span class="pl-k">function<span class="pl-en"> transfer</span></span>(<span class="pl-c1">address</span> <span class="pl-v">recipient</span>, <span class="pl-c1">uint</span> <span class="pl-v">amount</span>) <span class="pl-k">external</span> <span class="pl-k">returns</span> (<span class="pl-c1">bool</span>);</td>
+      </tr>
+      <tr>
+        <td id="L8" class="blob-num js-line-number" data-line-number="8"></td>
+        <td id="LC8" class="blob-code blob-code-inner js-file-line">    <span class="pl-k">function<span class="pl-en"> allowance</span></span>(<span class="pl-c1">address</span> <span class="pl-v">owner</span>, <span class="pl-c1">address</span> <span class="pl-v">spender</span>) <span class="pl-k">external</span> <span class="pl-k">view</span> <span class="pl-k">returns</span> (<span class="pl-c1">uint</span>);</td>
+      </tr>
+      <tr>
+        <td id="L9" class="blob-num js-line-number" data-line-number="9"></td>
+        <td id="LC9" class="blob-code blob-code-inner js-file-line">    <span class="pl-k">function<span class="pl-en"> approve</span></span>(<span class="pl-c1">address</span> <span class="pl-v">spender</span>, <span class="pl-c1">uint</span> <span class="pl-v">amount</span>) <span class="pl-k">external</span> <span class="pl-k">returns</span> (<span class="pl-c1">bool</span>);</td>
+      </tr>
+      <tr>
+        <td id="L10" class="blob-num js-line-number" data-line-number="10"></td>
+        <td id="LC10" class="blob-code blob-code-inner js-file-line">    <span class="pl-k">function<span class="pl-en"> transferFrom</span></span>(<span class="pl-c1">address</span> <span class="pl-v">sender</span>, <span class="pl-c1">address</span> <span class="pl-v">recipient</span>, <span class="pl-c1">uint</span> <span class="pl-v">amount</span>) <span class="pl-k">external</span> <span class="pl-k">returns</span> (<span class="pl-c1">bool</span>);</td>
+      </tr>
+      <tr>
+        <td id="L11" class="blob-num js-line-number" data-line-number="11"></td>
+        <td id="LC11" class="blob-code blob-code-inner js-file-line">    <span class="pl-k">event <span class="pl-c1">Transfer</span></span>(<span class="pl-c1">address</span> <span class="pl-k">indexed</span> <span class="pl-v">from</span>, <span class="pl-c1">address</span> <span class="pl-k">indexed</span> <span class="pl-v">to</span>, <span class="pl-c1">uint</span> <span class="pl-v">value</span>);</td>
+      </tr>
+      <tr>
+        <td id="L12" class="blob-num js-line-number" data-line-number="12"></td>
+        <td id="LC12" class="blob-code blob-code-inner js-file-line">    <span class="pl-k">event <span class="pl-c1">Approval</span></span>(<span class="pl-c1">address</span> <span class="pl-k">indexed</span> <span class="pl-v">owner</span>, <span class="pl-c1">address</span> <span class="pl-k">indexed</span> <span class="pl-v">spender</span>, <span class="pl-c1">uint</span> <span class="pl-v">value</span>);</td>
+      </tr>
+      <tr>
+        <td id="L13" class="blob-num js-line-number" data-line-number="13"></td>
+        <td id="LC13" class="blob-code blob-code-inner js-file-line">}</td>
+      </tr>
+      <tr>
+        <td id="L14" class="blob-num js-line-number" data-line-number="14"></td>
+        <td id="LC14" class="blob-code blob-code-inner js-file-line">
+</td>
+      </tr>
+      <tr>
+        <td id="L15" class="blob-num js-line-number" data-line-number="15"></td>
+        <td id="LC15" class="blob-code blob-code-inner js-file-line"><span class="pl-k">library<span class="pl-en"> SafeMath</span></span> {</td>
+      </tr>
+      <tr>
+        <td id="L16" class="blob-num js-line-number" data-line-number="16"></td>
+        <td id="LC16" class="blob-code blob-code-inner js-file-line">    <span class="pl-k">function<span class="pl-en"> add</span></span>(<span class="pl-c1">uint</span> <span class="pl-v">a</span>, <span class="pl-c1">uint</span> <span class="pl-v">b</span>) <span class="pl-k">internal</span> <span class="pl-k">pure</span> <span class="pl-k">returns</span> (<span class="pl-c1">uint</span>) {</td>
+      </tr>
+      <tr>
+        <td id="L17" class="blob-num js-line-number" data-line-number="17"></td>
+        <td id="LC17" class="blob-code blob-code-inner js-file-line">        <span class="pl-c1">uint</span> c = a <span class="pl-k">+</span> b;</td>
+      </tr>
+      <tr>
+        <td id="L18" class="blob-num js-line-number" data-line-number="18"></td>
+        <td id="LC18" class="blob-code blob-code-inner js-file-line">        <span class="pl-k">require</span>(c <span class="pl-k">&gt;=</span> a, <span class="pl-s">&quot;SafeMath: addition overflow&quot;</span>);</td>
+      </tr>
+      <tr>
+        <td id="L19" class="blob-num js-line-number" data-line-number="19"></td>
+        <td id="LC19" class="blob-code blob-code-inner js-file-line">
+</td>
+      </tr>
+      <tr>
+        <td id="L20" class="blob-num js-line-number" data-line-number="20"></td>
+        <td id="LC20" class="blob-code blob-code-inner js-file-line">        <span class="pl-k">return</span> c;</td>
+      </tr>
+      <tr>
+        <td id="L21" class="blob-num js-line-number" data-line-number="21"></td>
+        <td id="LC21" class="blob-code blob-code-inner js-file-line">    }</td>
+      </tr>
+      <tr>
+        <td id="L22" class="blob-num js-line-number" data-line-number="22"></td>
+        <td id="LC22" class="blob-code blob-code-inner js-file-line">    <span class="pl-k">function<span class="pl-en"> sub</span></span>(<span class="pl-c1">uint</span> <span class="pl-v">a</span>, <span class="pl-c1">uint</span> <span class="pl-v">b</span>) <span class="pl-k">internal</span> <span class="pl-k">pure</span> <span class="pl-k">returns</span> (<span class="pl-c1">uint</span>) {</td>
+      </tr>
+      <tr>
+        <td id="L23" class="blob-num js-line-number" data-line-number="23"></td>
+        <td id="LC23" class="blob-code blob-code-inner js-file-line">        <span class="pl-k">return</span> <span class="pl-c1">sub</span>(a, b, <span class="pl-s">&quot;SafeMath: subtraction overflow&quot;</span>);</td>
+      </tr>
+      <tr>
+        <td id="L24" class="blob-num js-line-number" data-line-number="24"></td>
+        <td id="LC24" class="blob-code blob-code-inner js-file-line">    }</td>
+      </tr>
+      <tr>
+        <td id="L25" class="blob-num js-line-number" data-line-number="25"></td>
+        <td id="LC25" class="blob-code blob-code-inner js-file-line">    <span class="pl-k">function<span class="pl-en"> sub</span></span>(<span class="pl-c1">uint</span> <span class="pl-v">a</span>, <span class="pl-c1">uint</span> <span class="pl-v">b</span>, <span class="pl-c1">string</span> <span class="pl-k">memory</span> <span class="pl-v">errorMessage</span>) <span class="pl-k">internal</span> <span class="pl-k">pure</span> <span class="pl-k">returns</span> (<span class="pl-c1">uint</span>) {</td>
+      </tr>
+      <tr>
+        <td id="L26" class="blob-num js-line-number" data-line-number="26"></td>
+        <td id="LC26" class="blob-code blob-code-inner js-file-line">        <span class="pl-k">require</span>(b <span class="pl-k">&lt;=</span> a, errorMessage);</td>
+      </tr>
+      <tr>
+        <td id="L27" class="blob-num js-line-number" data-line-number="27"></td>
+        <td id="LC27" class="blob-code blob-code-inner js-file-line">        <span class="pl-c1">uint</span> c = a <span class="pl-k">-</span> b;</td>
+      </tr>
+      <tr>
+        <td id="L28" class="blob-num js-line-number" data-line-number="28"></td>
+        <td id="LC28" class="blob-code blob-code-inner js-file-line">
+</td>
+      </tr>
+      <tr>
+        <td id="L29" class="blob-num js-line-number" data-line-number="29"></td>
+        <td id="LC29" class="blob-code blob-code-inner js-file-line">        <span class="pl-k">return</span> c;</td>
+      </tr>
+      <tr>
+        <td id="L30" class="blob-num js-line-number" data-line-number="30"></td>
+        <td id="LC30" class="blob-code blob-code-inner js-file-line">    }</td>
+      </tr>
+      <tr>
+        <td id="L31" class="blob-num js-line-number" data-line-number="31"></td>
+        <td id="LC31" class="blob-code blob-code-inner js-file-line">    <span class="pl-k">function<span class="pl-en"> mul</span></span>(<span class="pl-c1">uint</span> <span class="pl-v">a</span>, <span class="pl-c1">uint</span> <span class="pl-v">b</span>) <span class="pl-k">internal</span> <span class="pl-k">pure</span> <span class="pl-k">returns</span> (<span class="pl-c1">uint</span>) {</td>
+      </tr>
+      <tr>
+        <td id="L32" class="blob-num js-line-number" data-line-number="32"></td>
+        <td id="LC32" class="blob-code blob-code-inner js-file-line">        <span class="pl-k">if</span> (a <span class="pl-k">==</span> <span class="pl-c1">0</span>) {</td>
+      </tr>
+      <tr>
+        <td id="L33" class="blob-num js-line-number" data-line-number="33"></td>
+        <td id="LC33" class="blob-code blob-code-inner js-file-line">            <span class="pl-k">return</span> <span class="pl-c1">0</span>;</td>
+      </tr>
+      <tr>
+        <td id="L34" class="blob-num js-line-number" data-line-number="34"></td>
+        <td id="LC34" class="blob-code blob-code-inner js-file-line">        }</td>
+      </tr>
+      <tr>
+        <td id="L35" class="blob-num js-line-number" data-line-number="35"></td>
+        <td id="LC35" class="blob-code blob-code-inner js-file-line">
+</td>
+      </tr>
+      <tr>
+        <td id="L36" class="blob-num js-line-number" data-line-number="36"></td>
+        <td id="LC36" class="blob-code blob-code-inner js-file-line">        <span class="pl-c1">uint</span> c = a <span class="pl-k">*</span> b;</td>
+      </tr>
+      <tr>
+        <td id="L37" class="blob-num js-line-number" data-line-number="37"></td>
+        <td id="LC37" class="blob-code blob-code-inner js-file-line">        <span class="pl-k">require</span>(c <span class="pl-k">/</span> a <span class="pl-k">==</span> b, <span class="pl-s">&quot;SafeMath: multiplication overflow&quot;</span>);</td>
+      </tr>
+      <tr>
+        <td id="L38" class="blob-num js-line-number" data-line-number="38"></td>
+        <td id="LC38" class="blob-code blob-code-inner js-file-line">
+</td>
+      </tr>
+      <tr>
+        <td id="L39" class="blob-num js-line-number" data-line-number="39"></td>
+        <td id="LC39" class="blob-code blob-code-inner js-file-line">        <span class="pl-k">return</span> c;</td>
+      </tr>
+      <tr>
+        <td id="L40" class="blob-num js-line-number" data-line-number="40"></td>
+        <td id="LC40" class="blob-code blob-code-inner js-file-line">    }</td>
+      </tr>
+      <tr>
+        <td id="L41" class="blob-num js-line-number" data-line-number="41"></td>
+        <td id="LC41" class="blob-code blob-code-inner js-file-line">    <span class="pl-k">function<span class="pl-en"> div</span></span>(<span class="pl-c1">uint</span> <span class="pl-v">a</span>, <span class="pl-c1">uint</span> <span class="pl-v">b</span>) <span class="pl-k">internal</span> <span class="pl-k">pure</span> <span class="pl-k">returns</span> (<span class="pl-c1">uint</span>) {</td>
+      </tr>
+      <tr>
+        <td id="L42" class="blob-num js-line-number" data-line-number="42"></td>
+        <td id="LC42" class="blob-code blob-code-inner js-file-line">        <span class="pl-k">return</span> <span class="pl-c1">div</span>(a, b, <span class="pl-s">&quot;SafeMath: division by zero&quot;</span>);</td>
+      </tr>
+      <tr>
+        <td id="L43" class="blob-num js-line-number" data-line-number="43"></td>
+        <td id="LC43" class="blob-code blob-code-inner js-file-line">    }</td>
+      </tr>
+      <tr>
+        <td id="L44" class="blob-num js-line-number" data-line-number="44"></td>
+        <td id="LC44" class="blob-code blob-code-inner js-file-line">    <span class="pl-k">function<span class="pl-en"> div</span></span>(<span class="pl-c1">uint</span> <span class="pl-v">a</span>, <span class="pl-c1">uint</span> <span class="pl-v">b</span>, <span class="pl-c1">string</span> <span class="pl-k">memory</span> <span class="pl-v">errorMessage</span>) <span class="pl-k">internal</span> <span class="pl-k">pure</span> <span class="pl-k">returns</span> (<span class="pl-c1">uint</span>) {</td>
+      </tr>
+      <tr>
+        <td id="L45" class="blob-num js-line-number" data-line-number="45"></td>
+        <td id="LC45" class="blob-code blob-code-inner js-file-line">        <span class="pl-c">// Solidity only automatically asserts when dividing by 0</span></td>
+      </tr>
+      <tr>
+        <td id="L46" class="blob-num js-line-number" data-line-number="46"></td>
+        <td id="LC46" class="blob-code blob-code-inner js-file-line">        <span class="pl-k">require</span>(b <span class="pl-k">&gt;</span> <span class="pl-c1">0</span>, errorMessage);</td>
+      </tr>
+      <tr>
+        <td id="L47" class="blob-num js-line-number" data-line-number="47"></td>
+        <td id="LC47" class="blob-code blob-code-inner js-file-line">        <span class="pl-c1">uint</span> c = a <span class="pl-k">/</span> b;</td>
+      </tr>
+      <tr>
+        <td id="L48" class="blob-num js-line-number" data-line-number="48"></td>
+        <td id="LC48" class="blob-code blob-code-inner js-file-line">
+</td>
+      </tr>
+      <tr>
+        <td id="L49" class="blob-num js-line-number" data-line-number="49"></td>
+        <td id="LC49" class="blob-code blob-code-inner js-file-line">        <span class="pl-k">return</span> c;</td>
+      </tr>
+      <tr>
+        <td id="L50" class="blob-num js-line-number" data-line-number="50"></td>
+        <td id="LC50" class="blob-code blob-code-inner js-file-line">    }</td>
+      </tr>
+      <tr>
+        <td id="L51" class="blob-num js-line-number" data-line-number="51"></td>
+        <td id="LC51" class="blob-code blob-code-inner js-file-line">}</td>
+      </tr>
+      <tr>
+        <td id="L52" class="blob-num js-line-number" data-line-number="52"></td>
+        <td id="LC52" class="blob-code blob-code-inner js-file-line">
+</td>
+      </tr>
+      <tr>
+        <td id="L53" class="blob-num js-line-number" data-line-number="53"></td>
+        <td id="LC53" class="blob-code blob-code-inner js-file-line"><span class="pl-k">library<span class="pl-en"> Address</span></span> {</td>
+      </tr>
+      <tr>
+        <td id="L54" class="blob-num js-line-number" data-line-number="54"></td>
+        <td id="LC54" class="blob-code blob-code-inner js-file-line">    <span class="pl-k">function<span class="pl-en"> isContract</span></span>(<span class="pl-c1">address</span> <span class="pl-v">account</span>) <span class="pl-k">internal</span> <span class="pl-k">view</span> <span class="pl-k">returns</span> (<span class="pl-c1">bool</span>) {</td>
+      </tr>
+      <tr>
+        <td id="L55" class="blob-num js-line-number" data-line-number="55"></td>
+        <td id="LC55" class="blob-code blob-code-inner js-file-line">        <span class="pl-c1">bytes32</span> codehash;</td>
+      </tr>
+      <tr>
+        <td id="L56" class="blob-num js-line-number" data-line-number="56"></td>
+        <td id="LC56" class="blob-code blob-code-inner js-file-line">        <span class="pl-c1">bytes32</span> accountHash = <span class="pl-c1">0xc5d2460186f7233c927e7db2dcc703c0e500b653ca82273b7bfad8045d85a470</span>;</td>
+      </tr>
+      <tr>
+        <td id="L57" class="blob-num js-line-number" data-line-number="57"></td>
+        <td id="LC57" class="blob-code blob-code-inner js-file-line">        <span class="pl-c">// solhint-disable-next-line no-inline-assembly</span></td>
+      </tr>
+      <tr>
+        <td id="L58" class="blob-num js-line-number" data-line-number="58"></td>
+        <td id="LC58" class="blob-code blob-code-inner js-file-line">        assembly { <span class="pl-v">codehash</span> :<span class="pl-k">=</span> <span class="pl-c1">extcodehash</span>(account) }</td>
+      </tr>
+      <tr>
+        <td id="L59" class="blob-num js-line-number" data-line-number="59"></td>
+        <td id="LC59" class="blob-code blob-code-inner js-file-line">        <span class="pl-k">return</span> (codehash <span class="pl-k">!=</span> <span class="pl-c1">0x0</span> <span class="pl-k">&amp;&amp;</span> codehash <span class="pl-k">!=</span> accountHash);</td>
+      </tr>
+      <tr>
+        <td id="L60" class="blob-num js-line-number" data-line-number="60"></td>
+        <td id="LC60" class="blob-code blob-code-inner js-file-line">    }</td>
+      </tr>
+      <tr>
+        <td id="L61" class="blob-num js-line-number" data-line-number="61"></td>
+        <td id="LC61" class="blob-code blob-code-inner js-file-line">}</td>
+      </tr>
+      <tr>
+        <td id="L62" class="blob-num js-line-number" data-line-number="62"></td>
+        <td id="LC62" class="blob-code blob-code-inner js-file-line">
+</td>
+      </tr>
+      <tr>
+        <td id="L63" class="blob-num js-line-number" data-line-number="63"></td>
+        <td id="LC63" class="blob-code blob-code-inner js-file-line"><span class="pl-k">library<span class="pl-en"> SafeERC20</span></span> {</td>
+      </tr>
+      <tr>
+        <td id="L64" class="blob-num js-line-number" data-line-number="64"></td>
+        <td id="LC64" class="blob-code blob-code-inner js-file-line">    <span class="pl-k">using<span class="pl-en"> SafeMath</span></span> <span class="pl-k">for</span> uint;</td>
+      </tr>
+      <tr>
+        <td id="L65" class="blob-num js-line-number" data-line-number="65"></td>
+        <td id="LC65" class="blob-code blob-code-inner js-file-line">    <span class="pl-k">using<span class="pl-en"> Address</span></span> <span class="pl-k">for</span> address;</td>
+      </tr>
+      <tr>
+        <td id="L66" class="blob-num js-line-number" data-line-number="66"></td>
+        <td id="LC66" class="blob-code blob-code-inner js-file-line">
+</td>
+      </tr>
+      <tr>
+        <td id="L67" class="blob-num js-line-number" data-line-number="67"></td>
+        <td id="LC67" class="blob-code blob-code-inner js-file-line">    <span class="pl-k">function<span class="pl-en"> safeTransfer</span></span>(IERC20 token, <span class="pl-c1">address</span> <span class="pl-v">to</span>, <span class="pl-c1">uint</span> <span class="pl-v">value</span>) <span class="pl-k">internal</span> {</td>
+      </tr>
+      <tr>
+        <td id="L68" class="blob-num js-line-number" data-line-number="68"></td>
+        <td id="LC68" class="blob-code blob-code-inner js-file-line">        <span class="pl-c1">callOptionalReturn</span>(token, <span class="pl-c1">abi</span>.<span class="pl-c1">encodeWithSelector</span>(token.transfer.<span class="pl-c1">selector</span>, to, value));</td>
+      </tr>
+      <tr>
+        <td id="L69" class="blob-num js-line-number" data-line-number="69"></td>
+        <td id="LC69" class="blob-code blob-code-inner js-file-line">    }</td>
+      </tr>
+      <tr>
+        <td id="L70" class="blob-num js-line-number" data-line-number="70"></td>
+        <td id="LC70" class="blob-code blob-code-inner js-file-line">
+</td>
+      </tr>
+      <tr>
+        <td id="L71" class="blob-num js-line-number" data-line-number="71"></td>
+        <td id="LC71" class="blob-code blob-code-inner js-file-line">    <span class="pl-k">function<span class="pl-en"> safeTransferFrom</span></span>(IERC20 token, <span class="pl-c1">address</span> <span class="pl-v">from</span>, <span class="pl-c1">address</span> <span class="pl-v">to</span>, <span class="pl-c1">uint</span> <span class="pl-v">value</span>) <span class="pl-k">internal</span> {</td>
+      </tr>
+      <tr>
+        <td id="L72" class="blob-num js-line-number" data-line-number="72"></td>
+        <td id="LC72" class="blob-code blob-code-inner js-file-line">        <span class="pl-c1">callOptionalReturn</span>(token, <span class="pl-c1">abi</span>.<span class="pl-c1">encodeWithSelector</span>(token.transferFrom.<span class="pl-c1">selector</span>, from, to, value));</td>
+      </tr>
+      <tr>
+        <td id="L73" class="blob-num js-line-number" data-line-number="73"></td>
+        <td id="LC73" class="blob-code blob-code-inner js-file-line">    }</td>
+      </tr>
+      <tr>
+        <td id="L74" class="blob-num js-line-number" data-line-number="74"></td>
+        <td id="LC74" class="blob-code blob-code-inner js-file-line">
+</td>
+      </tr>
+      <tr>
+        <td id="L75" class="blob-num js-line-number" data-line-number="75"></td>
+        <td id="LC75" class="blob-code blob-code-inner js-file-line">    <span class="pl-k">function<span class="pl-en"> safeApprove</span></span>(IERC20 token, <span class="pl-c1">address</span> <span class="pl-v">spender</span>, <span class="pl-c1">uint</span> <span class="pl-v">value</span>) <span class="pl-k">internal</span> {</td>
+      </tr>
+      <tr>
+        <td id="L76" class="blob-num js-line-number" data-line-number="76"></td>
+        <td id="LC76" class="blob-code blob-code-inner js-file-line">        <span class="pl-k">require</span>((value <span class="pl-k">==</span> <span class="pl-c1">0</span>) <span class="pl-k">||</span> (token.<span class="pl-c1">allowance</span>(<span class="pl-c1">address</span>(<span class="pl-k">this</span>), spender) <span class="pl-k">==</span> <span class="pl-c1">0</span>),</td>
+      </tr>
+      <tr>
+        <td id="L77" class="blob-num js-line-number" data-line-number="77"></td>
+        <td id="LC77" class="blob-code blob-code-inner js-file-line">            <span class="pl-s">&quot;SafeERC20: approve from non-zero to non-zero allowance&quot;</span></td>
+      </tr>
+      <tr>
+        <td id="L78" class="blob-num js-line-number" data-line-number="78"></td>
+        <td id="LC78" class="blob-code blob-code-inner js-file-line">        );</td>
+      </tr>
+      <tr>
+        <td id="L79" class="blob-num js-line-number" data-line-number="79"></td>
+        <td id="LC79" class="blob-code blob-code-inner js-file-line">        <span class="pl-c1">callOptionalReturn</span>(token, <span class="pl-c1">abi</span>.<span class="pl-c1">encodeWithSelector</span>(token.approve.<span class="pl-c1">selector</span>, spender, value));</td>
+      </tr>
+      <tr>
+        <td id="L80" class="blob-num js-line-number" data-line-number="80"></td>
+        <td id="LC80" class="blob-code blob-code-inner js-file-line">    }</td>
+      </tr>
+      <tr>
+        <td id="L81" class="blob-num js-line-number" data-line-number="81"></td>
+        <td id="LC81" class="blob-code blob-code-inner js-file-line">    <span class="pl-k">function<span class="pl-en"> callOptionalReturn</span></span>(IERC20 token, <span class="pl-c1">bytes</span> <span class="pl-k">memory</span> <span class="pl-v">data</span>) <span class="pl-k">private</span> {</td>
+      </tr>
+      <tr>
+        <td id="L82" class="blob-num js-line-number" data-line-number="82"></td>
+        <td id="LC82" class="blob-code blob-code-inner js-file-line">        <span class="pl-k">require</span>(<span class="pl-c1">address</span>(token).<span class="pl-c1">isContract</span>(), <span class="pl-s">&quot;SafeERC20: call to non-contract&quot;</span>);</td>
+      </tr>
+      <tr>
+        <td id="L83" class="blob-num js-line-number" data-line-number="83"></td>
+        <td id="LC83" class="blob-code blob-code-inner js-file-line">
+</td>
+      </tr>
+      <tr>
+        <td id="L84" class="blob-num js-line-number" data-line-number="84"></td>
+        <td id="LC84" class="blob-code blob-code-inner js-file-line">        <span class="pl-c">// solhint-disable-next-line avoid-low-level-calls</span></td>
+      </tr>
+      <tr>
+        <td id="L85" class="blob-num js-line-number" data-line-number="85"></td>
+        <td id="LC85" class="blob-code blob-code-inner js-file-line">        (<span class="pl-c1">bool</span> <span class="pl-v">success</span>, <span class="pl-c1">bytes</span> <span class="pl-k">memory</span> <span class="pl-v">returndata</span>) <span class="pl-k">=</span> <span class="pl-c1">address</span>(token).<span class="pl-c1">call</span>(data);</td>
+      </tr>
+      <tr>
+        <td id="L86" class="blob-num js-line-number" data-line-number="86"></td>
+        <td id="LC86" class="blob-code blob-code-inner js-file-line">        <span class="pl-k">require</span>(success, <span class="pl-s">&quot;SafeERC20: low-level call failed&quot;</span>);</td>
+      </tr>
+      <tr>
+        <td id="L87" class="blob-num js-line-number" data-line-number="87"></td>
+        <td id="LC87" class="blob-code blob-code-inner js-file-line">
+</td>
+      </tr>
+      <tr>
+        <td id="L88" class="blob-num js-line-number" data-line-number="88"></td>
+        <td id="LC88" class="blob-code blob-code-inner js-file-line">        <span class="pl-k">if</span> (returndata.<span class="pl-c1">length</span> <span class="pl-k">&gt;</span> <span class="pl-c1">0</span>) { <span class="pl-c">// Return data is optional</span></td>
+      </tr>
+      <tr>
+        <td id="L89" class="blob-num js-line-number" data-line-number="89"></td>
+        <td id="LC89" class="blob-code blob-code-inner js-file-line">            <span class="pl-c">// solhint-disable-next-line max-line-length</span></td>
+      </tr>
+      <tr>
+        <td id="L90" class="blob-num js-line-number" data-line-number="90"></td>
+        <td id="LC90" class="blob-code blob-code-inner js-file-line">            <span class="pl-k">require</span>(<span class="pl-c1">abi</span>.<span class="pl-c1">decode</span>(returndata, (<span class="pl-c1">bool</span>)), <span class="pl-s">&quot;SafeERC20: ERC20 operation did not succeed&quot;</span>);</td>
+      </tr>
+      <tr>
+        <td id="L91" class="blob-num js-line-number" data-line-number="91"></td>
+        <td id="LC91" class="blob-code blob-code-inner js-file-line">        }</td>
+      </tr>
+      <tr>
+        <td id="L92" class="blob-num js-line-number" data-line-number="92"></td>
+        <td id="LC92" class="blob-code blob-code-inner js-file-line">    }</td>
+      </tr>
+      <tr>
+        <td id="L93" class="blob-num js-line-number" data-line-number="93"></td>
+        <td id="LC93" class="blob-code blob-code-inner js-file-line">}</td>
+      </tr>
+      <tr>
+        <td id="L94" class="blob-num js-line-number" data-line-number="94"></td>
+        <td id="LC94" class="blob-code blob-code-inner js-file-line">
+</td>
+      </tr>
+      <tr>
+        <td id="L95" class="blob-num js-line-number" data-line-number="95"></td>
+        <td id="LC95" class="blob-code blob-code-inner js-file-line"><span class="pl-k">contract<span class="pl-en"> YearnRewards</span></span> {</td>
+      </tr>
+      <tr>
+        <td id="L96" class="blob-num js-line-number" data-line-number="96"></td>
+        <td id="LC96" class="blob-code blob-code-inner js-file-line">  <span class="pl-k">using<span class="pl-en"> SafeERC20</span></span> <span class="pl-k">for</span> IERC20;</td>
+      </tr>
+      <tr>
+        <td id="L97" class="blob-num js-line-number" data-line-number="97"></td>
+        <td id="LC97" class="blob-code blob-code-inner js-file-line">  <span class="pl-k">using<span class="pl-en"> Address</span></span> <span class="pl-k">for</span> address;</td>
+      </tr>
+      <tr>
+        <td id="L98" class="blob-num js-line-number" data-line-number="98"></td>
+        <td id="LC98" class="blob-code blob-code-inner js-file-line">  <span class="pl-k">using<span class="pl-en"> SafeMath</span></span> <span class="pl-k">for</span> uint;</td>
+      </tr>
+      <tr>
+        <td id="L99" class="blob-num js-line-number" data-line-number="99"></td>
+        <td id="LC99" class="blob-code blob-code-inner js-file-line">
+</td>
+      </tr>
+      <tr>
+        <td id="L100" class="blob-num js-line-number" data-line-number="100"></td>
+        <td id="LC100" class="blob-code blob-code-inner js-file-line">
+</td>
+      </tr>
+      <tr>
+        <td id="L101" class="blob-num js-line-number" data-line-number="101"></td>
+        <td id="LC101" class="blob-code blob-code-inner js-file-line">  IERC20 <span class="pl-k">constant</span> <span class="pl-k">public</span> YFIT <span class="pl-k">=</span> <span class="pl-c1">IERC20</span>(<span class="pl-c1">0x0bc529c00C6401aEF6D220BE8C6Ea1667F6Ad93e</span>);</td>
+      </tr>
+      <tr>
+        <td id="L102" class="blob-num js-line-number" data-line-number="102"></td>
+        <td id="LC102" class="blob-code blob-code-inner js-file-line">  IERC20 <span class="pl-k">constant</span> <span class="pl-k">public</span> adai <span class="pl-k">=</span> <span class="pl-c1">IERC20</span>(<span class="pl-c1">0xfC1E690f61EFd961294b3e1Ce3313fBD8aa4f85d</span>);</td>
+      </tr>
+      <tr>
+        <td id="L103" class="blob-num js-line-number" data-line-number="103"></td>
+        <td id="LC103" class="blob-code blob-code-inner js-file-line">
+</td>
+      </tr>
+      <tr>
+        <td id="L104" class="blob-num js-line-number" data-line-number="104"></td>
+        <td id="LC104" class="blob-code blob-code-inner js-file-line">  <span class="pl-c1">address</span> <span class="pl-k">public</span> governance;</td>
+      </tr>
+      <tr>
+        <td id="L105" class="blob-num js-line-number" data-line-number="105"></td>
+        <td id="LC105" class="blob-code blob-code-inner js-file-line">
+</td>
+      </tr>
+      <tr>
+        <td id="L106" class="blob-num js-line-number" data-line-number="106"></td>
+        <td id="LC106" class="blob-code blob-code-inner js-file-line">  <span class="pl-k">constructor</span>() <span class="pl-k">public</span> {</td>
+      </tr>
+      <tr>
+        <td id="L107" class="blob-num js-line-number" data-line-number="107"></td>
+        <td id="LC107" class="blob-code blob-code-inner js-file-line">      governance <span class="pl-k">=</span> <span class="pl-c1">msg</span>.<span class="pl-c1">sender</span>;</td>
+      </tr>
+      <tr>
+        <td id="L108" class="blob-num js-line-number" data-line-number="108"></td>
+        <td id="LC108" class="blob-code blob-code-inner js-file-line">  }</td>
+      </tr>
+      <tr>
+        <td id="L109" class="blob-num js-line-number" data-line-number="109"></td>
+        <td id="LC109" class="blob-code blob-code-inner js-file-line">
+</td>
+      </tr>
+      <tr>
+        <td id="L110" class="blob-num js-line-number" data-line-number="110"></td>
+        <td id="LC110" class="blob-code blob-code-inner js-file-line">  <span class="pl-k">function<span class="pl-en"> claimable</span></span>(<span class="pl-c1">address</span> <span class="pl-v">_claimer</span>) <span class="pl-k">public</span> <span class="pl-k">view</span> <span class="pl-k">returns</span> (<span class="pl-c1">uint</span>) {</td>
+      </tr>
+      <tr>
+        <td id="L111" class="blob-num js-line-number" data-line-number="111"></td>
+        <td id="LC111" class="blob-code blob-code-inner js-file-line">      <span class="pl-c1">uint</span> _amount = YFIT.<span class="pl-c1">balanceOf</span>(_claimer);</td>
+      </tr>
+      <tr>
+        <td id="L112" class="blob-num js-line-number" data-line-number="112"></td>
+        <td id="LC112" class="blob-code blob-code-inner js-file-line">      <span class="pl-c1">uint</span> _adai = adai.<span class="pl-c1">balanceOf</span>(<span class="pl-c1">address</span>(<span class="pl-k">this</span>));</td>
+      </tr>
+      <tr>
+        <td id="L113" class="blob-num js-line-number" data-line-number="113"></td>
+        <td id="LC113" class="blob-code blob-code-inner js-file-line">      <span class="pl-c1">uint</span> _totalSupply = YFIT.<span class="pl-c1">totalSupply</span>();</td>
+      </tr>
+      <tr>
+        <td id="L114" class="blob-num js-line-number" data-line-number="114"></td>
+        <td id="LC114" class="blob-code blob-code-inner js-file-line">      <span class="pl-c1">uint</span> _balance = YFIT.<span class="pl-c1">balanceOf</span>(<span class="pl-c1">address</span>(<span class="pl-k">this</span>));</td>
+      </tr>
+      <tr>
+        <td id="L115" class="blob-num js-line-number" data-line-number="115"></td>
+        <td id="LC115" class="blob-code blob-code-inner js-file-line">      <span class="pl-c1">uint</span> _adjTotalSupply = _totalSupply.<span class="pl-c1">sub</span>(_balance);</td>
+      </tr>
+      <tr>
+        <td id="L116" class="blob-num js-line-number" data-line-number="116"></td>
+        <td id="LC116" class="blob-code blob-code-inner js-file-line">      <span class="pl-c1">uint</span> _share = _adai.<span class="pl-c1">mul</span>(_amount).<span class="pl-c1">div</span>(_adjTotalSupply);</td>
+      </tr>
+      <tr>
+        <td id="L117" class="blob-num js-line-number" data-line-number="117"></td>
+        <td id="LC117" class="blob-code blob-code-inner js-file-line">      <span class="pl-k">return</span> _share;</td>
+      </tr>
+      <tr>
+        <td id="L118" class="blob-num js-line-number" data-line-number="118"></td>
+        <td id="LC118" class="blob-code blob-code-inner js-file-line">  }</td>
+      </tr>
+      <tr>
+        <td id="L119" class="blob-num js-line-number" data-line-number="119"></td>
+        <td id="LC119" class="blob-code blob-code-inner js-file-line">
+</td>
+      </tr>
+      <tr>
+        <td id="L120" class="blob-num js-line-number" data-line-number="120"></td>
+        <td id="LC120" class="blob-code blob-code-inner js-file-line">  <span class="pl-k">function<span class="pl-en"> claim</span></span>(<span class="pl-c1">uint</span> <span class="pl-v">_amount</span>) <span class="pl-k">public</span> {</td>
+      </tr>
+      <tr>
+        <td id="L121" class="blob-num js-line-number" data-line-number="121"></td>
+        <td id="LC121" class="blob-code blob-code-inner js-file-line">      <span class="pl-c1">uint</span> _adai = adai.<span class="pl-c1">balanceOf</span>(<span class="pl-c1">address</span>(<span class="pl-k">this</span>));</td>
+      </tr>
+      <tr>
+        <td id="L122" class="blob-num js-line-number" data-line-number="122"></td>
+        <td id="LC122" class="blob-code blob-code-inner js-file-line">      <span class="pl-c1">uint</span> _totalSupply = YFIT.<span class="pl-c1">totalSupply</span>();</td>
+      </tr>
+      <tr>
+        <td id="L123" class="blob-num js-line-number" data-line-number="123"></td>
+        <td id="LC123" class="blob-code blob-code-inner js-file-line">      <span class="pl-c1">uint</span> _balance = YFIT.<span class="pl-c1">balanceOf</span>(<span class="pl-c1">address</span>(<span class="pl-k">this</span>));</td>
+      </tr>
+      <tr>
+        <td id="L124" class="blob-num js-line-number" data-line-number="124"></td>
+        <td id="LC124" class="blob-code blob-code-inner js-file-line">      <span class="pl-c1">uint</span> _adjTotalSupply = _totalSupply.<span class="pl-c1">sub</span>(_balance);</td>
+      </tr>
+      <tr>
+        <td id="L125" class="blob-num js-line-number" data-line-number="125"></td>
+        <td id="LC125" class="blob-code blob-code-inner js-file-line">      <span class="pl-c1">uint</span> _share = _adai.<span class="pl-c1">mul</span>(_amount).<span class="pl-c1">div</span>(_adjTotalSupply);</td>
+      </tr>
+      <tr>
+        <td id="L126" class="blob-num js-line-number" data-line-number="126"></td>
+        <td id="LC126" class="blob-code blob-code-inner js-file-line">
+</td>
+      </tr>
+      <tr>
+        <td id="L127" class="blob-num js-line-number" data-line-number="127"></td>
+        <td id="LC127" class="blob-code blob-code-inner js-file-line">      YFIT.<span class="pl-c1">safeTransferFrom</span>(<span class="pl-c1">msg</span>.<span class="pl-c1">sender</span>, <span class="pl-c1">address</span>(<span class="pl-k">this</span>), _amount);</td>
+      </tr>
+      <tr>
+        <td id="L128" class="blob-num js-line-number" data-line-number="128"></td>
+        <td id="LC128" class="blob-code blob-code-inner js-file-line">      adai.<span class="pl-c1">safeTransfer</span>(<span class="pl-c1">msg</span>.<span class="pl-c1">sender</span>, _share);</td>
+      </tr>
+      <tr>
+        <td id="L129" class="blob-num js-line-number" data-line-number="129"></td>
+        <td id="LC129" class="blob-code blob-code-inner js-file-line">  }</td>
+      </tr>
+      <tr>
+        <td id="L130" class="blob-num js-line-number" data-line-number="130"></td>
+        <td id="LC130" class="blob-code blob-code-inner js-file-line">
+</td>
+      </tr>
+      <tr>
+        <td id="L131" class="blob-num js-line-number" data-line-number="131"></td>
+        <td id="LC131" class="blob-code blob-code-inner js-file-line">  <span class="pl-k">function<span class="pl-en"> seize</span></span>(<span class="pl-c1">address</span> <span class="pl-v">_token</span>, <span class="pl-c1">uint</span> <span class="pl-v">_amount</span>) <span class="pl-k">public</span> {</td>
+      </tr>
+      <tr>
+        <td id="L132" class="blob-num js-line-number" data-line-number="132"></td>
+        <td id="LC132" class="blob-code blob-code-inner js-file-line">      <span class="pl-k">require</span>(<span class="pl-c1">msg</span>.<span class="pl-c1">sender</span> <span class="pl-k">==</span> governance, <span class="pl-s">&quot;!governance&quot;</span>);</td>
+      </tr>
+      <tr>
+        <td id="L133" class="blob-num js-line-number" data-line-number="133"></td>
+        <td id="LC133" class="blob-code blob-code-inner js-file-line">      <span class="pl-c1">IERC20</span>(_token).<span class="pl-c1">safeTransfer</span>(governance, _amount);</td>
+      </tr>
+      <tr>
+        <td id="L134" class="blob-num js-line-number" data-line-number="134"></td>
+        <td id="LC134" class="blob-code blob-code-inner js-file-line">  }</td>
+      </tr>
+      <tr>
+        <td id="L135" class="blob-num js-line-number" data-line-number="135"></td>
+        <td id="LC135" class="blob-code blob-code-inner js-file-line">}</td>
+      </tr>
+</table>
+
+  <details class="details-reset details-overlay BlobToolbar position-absolute js-file-line-actions dropdown d-none" aria-hidden="true">
+    <summary class="btn-octicon ml-0 px-2 p-0 bg-white border border-gray-dark rounded-1" aria-label="Inline file action toolbar">
+      <svg class="octicon octicon-kebab-horizontal" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="M8 9a1.5 1.5 0 100-3 1.5 1.5 0 000 3zM1.5 9a1.5 1.5 0 100-3 1.5 1.5 0 000 3zm13 0a1.5 1.5 0 100-3 1.5 1.5 0 000 3z"></path></svg>
+    </summary>
+    <details-menu>
+      <ul class="BlobToolbar-dropdown dropdown-menu dropdown-menu-se mt-2" style="width:185px">
+        <li>
+          <clipboard-copy role="menuitem" class="dropdown-item" id="js-copy-lines" style="cursor:pointer;">
+            Copy lines
+          </clipboard-copy>
+        </li>
+        <li>
+          <clipboard-copy role="menuitem" class="dropdown-item" id="js-copy-permalink" style="cursor:pointer;">
+            Copy permalink
+          </clipboard-copy>
+        </li>
+        <li><a class="dropdown-item js-update-url-with-hash" id="js-view-git-blame" role="menuitem" href="/YFITGov/blame/0a16b19f52437b7c4a4601e51063836a35ad4ab0/YFITRewardsBurn.sol">View git blame</a></li>
+          <li><a class="dropdown-item" id="js-new-issue" role="menuitem" href="/YFITGov/issues/new">Reference in new issue</a></li>
+      </ul>
+    </details-menu>
+  </details>
+
   </div>
 
     </div>
